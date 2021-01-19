@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509209057 source:d:\codeblocks\projects\volodin\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+
